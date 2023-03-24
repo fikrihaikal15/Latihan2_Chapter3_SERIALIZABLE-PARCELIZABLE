@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Latihan2_Chapter3_SERIALIZABLE-PARCELIZABLE</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="age">Age</string>
+</resources>
